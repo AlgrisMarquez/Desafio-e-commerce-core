@@ -22,17 +22,13 @@ Prueba Frontend con API Rest Mitocondria.
 
 # API
 
-  - El endpoint principal es:
-```sh
-http://5d8cdb5a443e3400143b4bea.mockapi.io/mito/
-```
   - GET productos:
 ```sh
-http://5d8cdb5a443e3400143b4bea.mockapi.io/mito/products
+https://5d8cdb5a443e3400143b4bea.mockapi.io/mito/products
 ```
   - GET Producto by ID:
 ```sh
-http://5d8cdb5a443e3400143b4bea.mockapi.io/mito/products/:id
+https://5d8cdb5a443e3400143b4bea.mockapi.io/mito/products/:id
 ```
 
 Debes enviar la dirección de git con tu repositorio.
