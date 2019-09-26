@@ -5,12 +5,12 @@ Prueba Frontend con API Rest Mitocondria.
 
 # Instrucciones:
 
-  - Deberás montar un landing de tienda en línea.
+  - Deberás montar un landing de tienda en línea, es un landing tipo Cyber (No es necesario un contador).
   - El diseño y estáticos son de libre a elección.
   - Puedes utilizar cualquier framework js (Angular, React o Vue), las formas de programar son libres, sólo queremos saber cómo llegas al objetivo.
   - Si no sabes hacer algo en particular, sáltatelo, pero no te sientas presionado a hacer el 100% del pedido.
   - Debes utilizar contenidos dinámicos obtenidos por API.
-  - De la API se obtienen sólo el listado de productos.
+  - De la API se obtienen sólo el listado de productos el resto de contenidos estáticos los debes generar o descargar.
   - Mostrar la información que se obtiene del producto, como por ej: Título producto, SKU, Imagen, Precio, etc.
 
 # Las funcionalidades que debe tener el Homepage son:
