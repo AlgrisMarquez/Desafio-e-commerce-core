@@ -7,7 +7,7 @@ Prueba Frontend con API Rest Mitocondria.
 
   - Deberás montar un landing de tienda en línea.
   - El diseño y estáticos son de libre a elección.
-  - Puedes utilizar cualquier framework que sepas o que te parezca, las formas de programar son libres, sólo queremos saber cómo llegas al objetivo.
+  - Puedes utilizar cualquier framework js (Angular, React o Vue), las formas de programar son libres, sólo queremos saber cómo llegas al objetivo.
   - Si no sabes hacer algo en particular, sáltatelo, pero no te sientas presionado a hacer el 100% del pedido.
   - Debes utilizar contenidos dinámicos obtenidos por API.
   - De la API se obtienen sólo el listado de productos.
@@ -17,8 +17,8 @@ Prueba Frontend con API Rest Mitocondria.
 
   - Añadir al carro, debe ser un botón clickeable.
   - Al presionar Añadir al carro se debe agregar al minicart, con una animación simple.
-  - El minicart debe mostrar los productos que tengas en el carro.
-  - El minicart debe tener un contador con todos los productos que has añadido (número).
+  - El minicart debe ser un desplegable, que al hacer hover muestre los productos que tengas en el carro.
+  - El minicart debe tener un contador con todos los productos que has añadido (número bajo el icono de carro).
 
 # API
 
