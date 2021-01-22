@@ -1,44 +1,44 @@
-# PruebaAPI
-[![N|Solid](https://mitocondria.cl/wp-content/uploads/2019/09/logoMito.png)](https://mitocondria.cl)
+# PruebaAPI React
+[![N|Solid](https://mitocondria.cl/wp-content/uploads/2021/01/logo-corebiz-preto-cinza.png)](https://mitocondria.cl/corebiz-cl/)
 
-Prueba Frontend con API Rest Mitocondria.
+Prueba Frontend con API Rest Corebiz Chile.
 
 # Instrucciones:
 
-  - Deberás montar un landing de tienda en línea, es un landing tipo Cyber (No es necesario un contador).
-  - El diseño y estáticos son de libre a elección.
-  - Puedes utilizar cualquier framework js (Angular, React o Vue), las formas de programar son libres, sólo queremos saber cómo llegas al objetivo.
-  - Si no sabes hacer algo en particular, sáltatelo, pero no te sientas presionado a hacer el 100% del pedido.
+  - Deberás montar un homepage de tienda en línea.
+  - Los estáticos los podrás encontrar en la carpeta statics.
+  - Debes utilizar React como Framework JS, las formas de programar son libres, sólo queremos saber cómo llegas al objetivo.
+  - Si no sabes hacer algo en particular, sáltalo, pero no sientas paresión a hacer el 100% del diseño.
   - Debes utilizar contenidos dinámicos obtenidos por API.
   - De la API se obtienen sólo el listado de productos el resto de contenidos estáticos los debes generar o descargar.
   - Mostrar la información que se obtiene del producto, como por ej: Título producto, SKU, Imagen, Precio, etc.
 
-# Las funcionalidades que debe tener el Homepage son:
+# Funcionalidades:
 
   - Añadir al carro, debe ser un botón clickeable.
-  - Al presionar Añadir al carro se debe agregar al minicart, con una animación simple.
-  - El minicart debe ser un desplegable, que al hacer hover muestre los productos que tengas en el carro.
+  - Al presionar Añadir al carro se debe agregar al minicart, con una animación simple y modificar el número de items (Totales).
+  - El minicart debe ser un desplegable, que al hacer hover muestre los productos que tengas en el carro y que al quitar el hover desaparezca el desplegable.
   - El minicart debe tener un contador con todos los productos que has añadido (número bajo el icono de carro).
 
 # API
 
   - GET productos:
 ```sh
-https://5d8cdb5a443e3400143b4bea.mockapi.io/mito/products
+https://5d8cdb5a443e3400143b4bea.mockapi.io/corebizchile/products
 ```
   - GET Producto by ID:
 ```sh
-https://5d8cdb5a443e3400143b4bea.mockapi.io/mito/products/:id
+https://5d8cdb5a443e3400143b4bea.mockapi.io/corebizchile/products/:id
 ```
 
 Debes enviar la dirección de git con tu repositorio.
 
-\+ Info [Mitocondria](https://mitocondria.cl)
+\+ Info [Corebiz Chile](https://mitocondria.cl/corebiz-cl/)
 
 License
 ----
 
-MIT
+Corebiz
 
 
 **Happy Coding!**
